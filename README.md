@@ -2,6 +2,7 @@
 This project predicts the likelihood of heart disease using machine learning algorithms based on a dataset containing 290(after data preprocessing) patient records with 14 medical attributes. The goal is to assist in early diagnosis of heart disease, enabling timely medical intervention.
 
 Project Overview
+
 Heart disease remains one of the leading causes of death worldwide. This project applies machine learning techniques to analyze patient data and predict the risk of heart disease ranging from 0 to 4 based on the severity of coronary artery blockage. 
 The dataset used can be found below
 https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download
